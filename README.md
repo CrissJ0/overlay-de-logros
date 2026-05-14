@@ -22,17 +22,17 @@ con cronómetro, contador de progreso y traducción automática al español.
 ### Overlay principal
 Muestra hasta 4 logros activos con temporizador, contador o modo solo-visualización.
 
-![Overlay principal](<img width="472" height="323" alt="Captura de pantalla 2026-05-13 205357" src="https://github.com/user-attachments/assets/5ced6f45-7064-46ce-9c8a-1481e2c0ab6b" />)
+![Overlay principal](<img width="472" height="323" alt="assetsscreenshot_overlay" src="https://github.com/user-attachments/assets/9576c081-f8c9-4261-9ee9-488feccf53dd" />)
 
 ### Panel de selección de logros
 Busca y selecciona logros con sus íconos y descripciones, resaltando los activos con ✔.
 
-![Selección de logros](assets/screenshot_seleccion.png)
+![Selección de logros](<img width="561" height="544" alt="Captura de pantalla 2026-05-13 205742" src="https://github.com/user-attachments/assets/ebc9d6b1-08b4-4d23-b891-f6441ab5be0d" />)
 
 ### Menú de configuración
 Acceso rápido a cuenta, juegos, idioma, apariencia y teclas rápidas.
 
-![Menú](assets/screenshot_menu.png)
+![Menú](<img width="250" height="423" alt="Captura de pantalla 2026-05-13 205835" src="https://github.com/user-attachments/assets/efdad0d7-4e1e-45ef-9cbb-3da5e0808d09" />)
 
 ---
 
