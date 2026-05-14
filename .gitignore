@@ -1,0 +1,17 @@
+# Python
+  __pycache__/
+  *.py[cod]
+  *.pyo
+  dist/
+  build/
+  *.spec
+
+  # Config local (datos personales)
+  overlay_config.json
+  overlay_presets.json
+  badge_cache/
+
+  # OS
+  .DS_Store
+  Thumbs.db
+  
