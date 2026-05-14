@@ -1,0 +1,38 @@
+Overlay de Logros v3.4
+  ==========================
+
+  NOVEDADES v3.4
+  --------------
+  ✔ Imágenes de logros visibles en el panel de selección
+     Cada logro muestra su ícono de badge al seleccionarlo
+     Haz clic en cualquier fila para seleccionar/deseleccionar
+     Los logros seleccionados se resaltan con un ✔
+
+  ✔ Sistema de idioma (Español / English)
+     Menú ⚙ → sección IDIOMA → un clic para cambiar
+     Modo Español: los títulos y descripciones de logros se traducen
+       automáticamente al guardarlos (usa Google Translate, requiere internet)
+     Modo English: los nombres originales de RA se muestran sin cambios
+     La preferencia se guarda en overlay_config.json
+
+  NOVEDADES v3.3
+  --------------
+  ✔ Botón ✕ en cada logro para quitarlo individualmente
+  ✔ "Quitar todos los logros" en el menú ⚙
+  ✔ Imágenes de perfil y badges cargan correctamente
+  ✔ Tipo "⊘ Solo mostrar" — muestra el logro sin timer ni contador
+
+  PRIMEROS PASOS
+  --------------
+  1. pip install keyboard requests Pillow
+  2. python timer_overlay.py
+     ─── o ───
+     Doble clic en build_exe.bat
+
+  TECLAS GLOBALES (ejecutar como Administrador)
+  ---------------------------------------------
+  F1 = Iniciar/Pausar todos los temporizadores
+  F2 = Reiniciar todo
+  F3 = Abrir/cerrar menú ⚙
+  Esc = Cerrar overlay
+  
