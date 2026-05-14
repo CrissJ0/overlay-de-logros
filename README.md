@@ -22,7 +22,7 @@ con cronómetro, contador de progreso y traducción automática al español.
 ### Overlay principal
 Muestra hasta 4 logros activos con temporizador, contador o modo solo-visualización.
 
-![Overlay principal](assets/screenshot_overlay.png)
+![Overlay principal](<img width="472" height="323" alt="Captura de pantalla 2026-05-13 205357" src="https://github.com/user-attachments/assets/5ced6f45-7064-46ce-9c8a-1481e2c0ab6b" />)
 
 ### Panel de selección de logros
 Busca y selecciona logros con sus íconos y descripciones, resaltando los activos con ✔.
